@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on [Steam Authenticator Bot](https://github.com/greeves12/steam-auth-bot)
 
-- 🌱 I’m currently learning **ReactJS and Vue**
-
 - 👨‍💻 All of my projects are available at [https://github.com/greeves12/](https://github.com/greeves12/)
-
-- 💬 Ask me about **Microservices, backend development and databases**
 
 - 📫 How to reach me **tategreeves@gmail.com**
 
